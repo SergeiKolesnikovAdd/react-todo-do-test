@@ -1,0 +1,31 @@
+.close-button {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+}
+
+.line-45 {
+  position: absolute;
+  top: 48%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 40px;
+  height: 4px;
+  background-color: red;
+  rotate: (45deg);
+}
+
+.line-135 {
+  position: absolute;
+  top: 48%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 40px;
+  height: 4px;
+  background-color: red;
+  rotate: (135deg);
+}
